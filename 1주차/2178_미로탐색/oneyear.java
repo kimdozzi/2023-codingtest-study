@@ -27,14 +27,12 @@ public class B2178_미로탐색 {
 
         visited = new boolean[N][M];
         visited[0][0]=true;
-        bfs(0,0); // 방법 1
-        gogo(0,0); // 방법 2
+        bfs(0,0);
         System.out.println(arr[N-1][M-1]);
 
     }
 
 
-    // 방법 1
     public static void bfs(int x, int y) {
         Queue<int []> q = new LinkedList<>();
         q.add(new int [] {x,y});
@@ -56,36 +54,4 @@ public class B2178_미로탐색 {
         }
     }
 
-
-    // 방법 2
-    static class Point {
-        int x, y;
-
-        Point(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-    }
-
-    public static void gogo(int x , int y) {
-        Queue<Point> q = new LinkedList<>();
-        q.add(new Point(x,y));
-
-        while (!q.isEmpty()) {
-            Point point = q.poll();
-            int r = point.x;
-            int c = point.y;
-
-            for(int i=0; i<4; i++) {
-                int nr = r + di[i];
-                int nc = c + dj[i];
-
-                if(nr>=0 && nr<N && nc>=0 && nc<M && visited[nr][nc]==false && arr[nr][nc]==1) {
-                    visited[nr][nc]=true;
-                    arr[nr][nc] = arr[r][c] + 1;
-                    q.add(new Point(nr,nc));
-                }
-            }
-        }
-    }
 }
