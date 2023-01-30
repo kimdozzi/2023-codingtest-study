@@ -27,16 +27,6 @@ public class Main {
             else
                 i++;
         }
-//        for(int i = 0; i < size -1; i++){
-//            for(int j = size - 1; i < j; j--){
-//                tmp = arr[i] + arr[j];
-//                if(Math.abs(tmp) < sum) {
-//                    sum = Math.abs(tmp);
-//                    tmp_i = i;
-//                    tmp_j = j;
-//                }
-//            }
-//        }
         bw.write(String.valueOf(arr[tmp_i]) + " " + String.valueOf(arr[tmp_j]));
         bw.flush();
         bw.close();
