@@ -23,7 +23,7 @@ public class oneyear {
             arr = new int[N][M];
             visited = new boolean[N][M];
 
-            for(int k=0; k<K; k++) {
+            for(int k=0; k<K; k++ ) {
                 st = new StringTokenizer(br.readLine(), " ");
                 int ti = Integer.parseInt(st.nextToken());
                 int tj = Integer.parseInt(st.nextToken());

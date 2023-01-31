@@ -19,7 +19,7 @@ public class onyear {
         V = Integer.parseInt(st.nextToken());
 
         arr = new int[N+1][N+1];
-        for(int i=0; i<M; i++) {
+        for(int i=0; i<M; i++)  {
             st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());

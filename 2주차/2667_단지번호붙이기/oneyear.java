@@ -16,7 +16,7 @@ public class oneyear {
         N = Integer.parseInt(br.readLine());
         arr = new int[N][N];
 
-        for(int i=0; i<N; i++) {
+        for(int i=0; i<N; i++)  {
             char [] ch = br.readLine().toCharArray();
             for(int j=0; j<N; j++) {
                 arr[i][j] = Integer.parseInt(String.valueOf(ch[j]));

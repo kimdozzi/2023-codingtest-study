@@ -24,7 +24,7 @@ public class Main {
 
         arr = new String[N][N];
         brr = new String[N][N];
-        for(int i=0; i<N; i++) {
+        for(int i=0; i<N; i++)  {
             char [] ch = br.readLine().toCharArray();
             for(int j=0; j<N; j++) {
                 arr[i][j] = String.valueOf(ch[j]);

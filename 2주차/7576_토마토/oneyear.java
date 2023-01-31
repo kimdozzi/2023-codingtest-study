@@ -10,7 +10,7 @@ public class oneyear {
     static int [] di = {-1,0,1,0}, dj = {0,-1,0,1};
     static int [][] arr;
     static Queue<Point> q;
-    static class Point {
+    static class Point  {
         int x, y;
         public Point(int x, int y) {
             this.x = x;
