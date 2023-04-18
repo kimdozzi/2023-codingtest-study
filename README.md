@@ -76,6 +76,36 @@
             <br />
             <a href="https://github.com/VeganDino">VeganDino</a>
         </td>
+      <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=madirony52" />
+            <br />
+            <a href="https://www.acmicpc.net/user/madirony52">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/madirony52">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimdozzi" />
+            <br />
+            <a href="https://www.acmicpc.net/user/kimdozzi">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/kimdozzi">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tnalsdlm" />
+            <br />
+            <a href="https://www.acmicpc.net/user/tnalsdlm">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/tnalsdlm">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=oneyear" />
+            <br />
+            <a href="https://www.acmicpc.net/user/oneyear">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/oneyear">solved.ac</a>
+        </td>
+    </tr>
     </tr>
     
 </table>
