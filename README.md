@@ -7,10 +7,10 @@
 ## ✅ 참여 방법
 1. 저장소를 `fork` 
 2. Issues에 해당 문제를 확인하고 문제를 푼다.
-3. 생성된 폴더에 자신의 소스코드를 푸쉬한다. (원활한 코드리뷰를 위해 코드 주석 및 시간복잡도 등 작성해주세요)
-4. 원본 저장소로 `Pull Request`를 한다. (매주 5문제 이상)
-5. 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
-6. 코드 리뷰 완료 후 merge 
+3. 생성된 폴더에 자신의 소스코드를 Push & Commit 한다. (걸린 시간 포함)
+4. 원본 저장소로 `Pull Request` 한다. (매주 5문제 이상)
+5. 푼 문제는 해당 주차 Issue로 가서 Comment를 남긴다.
+6. Google Meet로 리뷰
 
 
 
@@ -52,8 +52,67 @@
 
 <br />
 <br />
+
+## ✅ Contributors
+<table>
+    <tr height="140px">
+        <td align="center" width="130px">
+            <a href="https://github.com/madirony"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48685874?v=4"/></a>
+            <br />
+            <a href="https://github.com/madirony">madirony</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/kimdozzi"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/95005061?v=4"/></a>
+            <br />
+            <a href="https://github.com/kimdozzi">kimdozzi</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/leesuuuuumm"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/58407737?v=4"/></a>
+            <br />
+            <a href="https://github.com/leesuuuuumm">leesuuuuumm</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/VeganDino"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/56749776?v=4"/></a>
+            <br />
+            <a href="https://github.com/VeganDino">VeganDino</a>
+        </td>
+      <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=madirony52" />
+            <br />
+            <a href="https://www.acmicpc.net/user/madirony52">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/madirony52">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimdozzi" />
+            <br />
+            <a href="https://www.acmicpc.net/user/kimdozzi">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/kimdozzi">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tnalsdlm" />
+            <br />
+            <a href="https://www.acmicpc.net/user/tnalsdlm">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/tnalsdlm">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=oneyear" />
+            <br />
+            <a href="https://www.acmicpc.net/user/oneyear">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/oneyear">solved.ac</a>
+        </td>
+    </tr>
+    </tr>
+    
+</table>
 <br />
 <br />
+<br />
+
 
 해당 README 파일은 아래 링크를 참고하여 작성하였습니다. 
 - https://github.com/ellynhan/challenge100-codingtest-study/blob/master/README.md 
