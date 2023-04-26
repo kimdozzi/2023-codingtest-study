@@ -20,7 +20,7 @@
 ## ✅ 폴더 구조
 - `n주차/문제 이름/사용자 이름.java(깃허브)`
 - `ex) 11주차/[BOJ] 1806 부분합/kimdozzi.java`
-- `ex) 12주차/[PRG] 이모티콘 할인행사 - 2023 KAKAO/madirony.java`
+- `ex) 12주차/[PRG] 이모티콘 할인행사/madirony.java`
 
 <br />
 <br />
