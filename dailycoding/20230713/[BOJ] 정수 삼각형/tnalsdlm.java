@@ -14,7 +14,7 @@ public class Main {
 				triangle[i][j] = Integer.parseInt(st.nextToken());
 			}
 		}
-		dp[0][0] = triangle[0][0];
+		dp[0][0] = triangle[0][0]; 
 
 		for (int i = 1; i < N; i++) {
 			for (int j = 0; j <= i; j++) {
